@@ -16,3 +16,11 @@ To run the Music Library Management System, follow these steps:
 python .\main.py
 ```
 4. The Music Library Management System will start, and you will see a menu with various options for managing your music library.
+
+## Using the App:
+Once the app is running, you can perform the following operations:
+
+1. Add a new music track:
+ * Choose option 1 from the menu.
+ * Enter the details of the new track as prompted.
+ * The track will be added to the library.
