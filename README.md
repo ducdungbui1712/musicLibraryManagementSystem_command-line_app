@@ -1,6 +1,6 @@
 # Running and Using the Music Library Management System
 ## Introduction:
-* The Music Library Management System is an application designed to manage a library of music tracks and playlists with a command-line interface. This report provides instructions on how to run and use the app effectively.
+* This Music Library Management System is a simple application designed to manage a library of music tracks and playlists with a command-line interface. This report provides instructions on how to run and use the app effectively.
 
 ## System Requirements:
 Before running the Music Library Management System, ensure that you have the following requirements:
