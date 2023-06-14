@@ -43,3 +43,32 @@ Once the app is running, you can perform the following operations:
  * Enter the title or artist of the track you want to delete.
  * Choose the track from the list of matching tracks.
  * The track will be deleted from the library.
+
+5. Display a list of all music tracks in the library:
+ * Choose option 5 from the menu.
+ * The app will display a numbered list of all tracks in the library.
+
+6. Create a playlist:
+* Choose option 6 from the menu.
+* Enter the name of the playlist.
+* The playlist will be created.
+
+7. Add tracks to a playlist:
+ * Choose option 7 from the menu.
+ * Select the playlist you want to add tracks to from the list of available playlists.
+ * Enter a search term to find tracks.
+ * The app will display a list of tracks matching the search term.
+ * Select the track you want to add to the playlist.
+ * The track will be added to the playlist.
+
+8. Search for tracks or playlists:
+ * Choose option 8 from the menu.
+ * Enter a search term to search for music tracks and playlists by title, artist, album, or genre.
+ * The app will display a list of tracks and playlists matching the search term.
+
+9. Exit the app:
+ * Choose option 9 from the menu.
+ * The app will save the library and playlists to the respective text files and exit.
+
+## Conclusion:
+The Music Library Management System provides a convenient way to manage your music tracks and playlists. By following the instructions in this report, you can run the app and utilize its features effectively. Thank you so much for giving me the opportunity to take this test. I assure you that I have put in my best effort, maintained honesty, and avoided any form of cheating. I truly appreciate EMVN for providing me with a chance to showcase my abilities, and I promise to continue learning and dedicate myself fully to the job. I look forward to receiving your feedback soon. Thank you again.
